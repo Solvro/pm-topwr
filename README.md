@@ -1,2 +1,2 @@
 # ToPWR PM Repo
-The purpose of this repositry is to containt project management issues concerning ToPWR. 
+The purpose of this repository is to contain project management issues concerning ToPWR. 
